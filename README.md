@@ -13,7 +13,7 @@ Merupakan project untuk mata kuliah Pengantar Text Mining. Project ini berisi te
 
 📌 Main Feature <br>
 1. Pemodelan BIO (Begin-Inside-Out) <br>
-2. Ekstraks Triplet Aspect-Sentiment-Polarity <br>
+2. Ekstraks Triplet Aspect-Sentiment-Polarity <br><br>
 
 📌 Preview Output Model <br>
 ![Dashboard Preview](Preview/model_overview.png)
